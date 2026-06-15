@@ -322,6 +322,7 @@ _Libraries for implementing authentication schemes._
 
 - OAuth
   - [authlib](https://github.com/authlib/authlib) - JavaScript Object Signing and Encryption draft implementation.
+  - [authsome](https://github.com/agentrhq/authsome) - Local-first credential broker for AI agents that injects OAuth2 tokens and API keys via a loopback HTTPS proxy so secrets never touch the agent's environment.
   - [django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
   - [django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - OAuth 2 goodies for Django.
   - [oauthlib](https://github.com/oauthlib/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
